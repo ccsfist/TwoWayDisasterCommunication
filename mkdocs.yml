@@ -11,20 +11,14 @@ theme:
 
 nav:
 - 'index.md'
-- 'disastermandate.md' # this is intro and IPC table
-- 'probabilityanswers.md'
-- 'aahat.md'
-- 'aahatanswers.md'
-- 'budgets.md'
-- 'budgetanswers.md'
-- 'forecast.md'
-- 'forecastanswers.md'
-- 'forecasterror.md'
-- 'forecasterroranswers.md'
-- 'actiondesign.md'
-- 'actiondesignanswers.md'
-- 'designtools.md'
-- 'operation.md'
+- 'twilio.md'
+- 'disastercommunication.md'
+- 'sheltergame.md'
+- 'shelterresults.md'
+- 'shelterresults2.md'
+- 'heatcommunication.md'
+- 'heatresults.md'
+- 'koboperspectives.md'
 - 'finished.md'
 
 plugins:
