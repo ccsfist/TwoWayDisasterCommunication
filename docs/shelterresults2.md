@@ -3,7 +3,7 @@
 Here are the most recent "live" results from the latest simulation played.  
 This may be the simulation you participated in, if it was the latest!
 
-But be warned--these are dynamic and be broken or simply a systems test.
+These are simply the most recent results, the previous page will now have them too.
 
 After the first round:
 -Did we want more information?
