@@ -2,6 +2,6 @@
 
 ## Perspectives from Jerome Marston, KoboToolbox.org
 
-## Need perspectives from NYC, Students, Community, ask what questions, form design form...
+## Perspectives from NYC, Students, Community
 
 <div id="slide-config" data-type="simple" data-next="../finished/" </div>
