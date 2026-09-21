@@ -11,4 +11,4 @@
 
 ## You can use regular text messages or whatsapp
 
-<div id="slide-config" data-type="simple" data-next="../koboperspectives/" data-width="100%"> </div>
+<div id="slide-config" data-type="simple" data-next="../heatresults/" data-width="100%"> </div>
