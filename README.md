@@ -2,6 +2,8 @@
 
 **This is the example repo for the scripts, code, and readme for this family of mkdocs kobo workflows**
 
+Buzzwords are generated in noki_evacuate_process repo--see readme there for how they work
+
 This project uses mkdocs, kobo, and some javascript to make an educational or project decision workflow where output is saved in kobo.  It uses a simplified "Configuration Div" system to handle slide logic (forms, redirects, images, and email persistence). Instead of writing complex HTML/JS in every slide, you simply place one configuration line at the bottom of your whatever.md file in docs.
 
 - The email from the email setting form is preserved into the next pages and shows up automatically in the kobo forms if you do things correctly, and the user only submits forms or uses the "go to the next page" button at the bottom.  The javascript takes care of that.  
