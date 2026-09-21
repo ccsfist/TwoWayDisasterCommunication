@@ -1,4 +1,4 @@
-#Shelter Latest Results!
+#Shelter round 2 Results!
 
 Here are the most recent "live" results from the latest simulation played.  
 This may be the simulation you participated in, if it was the latest!

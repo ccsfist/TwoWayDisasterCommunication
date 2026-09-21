@@ -6,4 +6,4 @@ What if they could communicate beforehand, to plan together?
 
 Lets do a roleplay, and ask people here what two way communications might be useful.
 
-<div id="slide-config" data-type="simple" data-next="../heat/" data-width="100%"> </div>
+<div id="slide-config" data-type="simple" data-next="../heatgame/" data-width="100%"> </div>
