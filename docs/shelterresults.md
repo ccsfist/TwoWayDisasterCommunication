@@ -11,6 +11,8 @@ Now text “coordinate” again, and answer the same questions with more informa
 
 Most modern results will show up here
 
+## Make sure to pop out these results for future comparison!
+
 <a href="https://dosgoodcu.github.io/Evacuate/docs/shelter.html" target="_blank">
     Pop out the results
 </a>
