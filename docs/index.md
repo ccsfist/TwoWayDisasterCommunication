@@ -8,4 +8,4 @@
 
 ## **Text or whatsapp "2wayBuzzwords" to +1 (646) 217-0881 to create your own annoying and/or badly needed buzzword**
 
-<div id="slide-config" data-type="simple" data-next="../title/"> </div>
+<div id="slide-config" data-type="simple" data-next="../titled/"> </div>

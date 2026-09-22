@@ -11,7 +11,7 @@ theme:
 
 nav:
 - 'index.md'
-- 'title.md'
+- 'titled.md'
 - 'twilio.md'
 - 'disastercommunication.md'
 - 'sheltergame.md'
