@@ -18,4 +18,4 @@ Below are some of the groups that have been pioneering these types of approaches
 * [National Center for Disaster Preparedness](https://ncdp.columbia.edu)
 * [Financial Instruments, National Center for Disaster Preparedness](https://ncdp.columbia.edu/fi)
 
-<div id="slide-config" data-type="simple" data-next="../twilio/"> </div>
+<div id="slide-config" data-type="simple" data-next="../disastercommunication/"> </div>
