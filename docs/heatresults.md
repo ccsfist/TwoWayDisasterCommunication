@@ -10,4 +10,4 @@
         style="border:1px solid black; transition: all 0.3s ease;"></iframe>
 </div>
 
-<div id="slide-config" data-type="simple" data-next="../koboperspectives/" </div>
+<div id="slide-config" data-type="simple" data-next="../perspectives2/" </div>

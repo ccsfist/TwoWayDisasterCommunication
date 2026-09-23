@@ -24,4 +24,4 @@ Now text “coordinate” again, and answer the same questions with more informa
         style="border:1px solid black; transition: all 0.3s ease;"></iframe>
 </div>
 
-<div id="slide-config" data-type="simple" data-next="../heatcommunication/" </div>
+<div id="slide-config" data-type="simple" data-next="../perspectives1/" </div>
