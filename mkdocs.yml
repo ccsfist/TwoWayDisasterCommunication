@@ -13,14 +13,16 @@ nav:
 - 'index.md'
 - 'titled.md'
 - 'twilio.md'
+- 'learninganddoing.md'
 - 'disastercommunication.md'
 - 'sheltergame.md'
 - 'shelterresults.md'
 - 'shelterresults2.md'
+- 'perspectives1.md'
 - 'heatcommunication.md'
 - 'heatgame.md'
 - 'heatresults.md'
-- 'koboperspectives.md'
+- 'perspectives2.md'
 - 'finished.md'
 
 plugins:

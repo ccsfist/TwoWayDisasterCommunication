@@ -10,11 +10,9 @@ After the first round:
 -What coordination successes occurred?
 -What coordination failures happened?
 
-Now text “coordinate” again, and answer the same questions with more information
--Do we do better?
--Or, are things changing too fast?
+What additional communication might improve things more?
 
-<a href="https://dosgoodcu.github.io/Evacuate/docs/shelter.html" target="_blank">
+<a href="https://dosgoodcu.github.io/Evacuate/docs/ShelterRound2.html" target="_blank">
     Pop out the Dashboard
 </a>
 <div style="text-align: center; margin-top: 10px;">

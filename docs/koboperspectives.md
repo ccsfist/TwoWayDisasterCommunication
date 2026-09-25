@@ -1,7 +1,0 @@
-# What is your mandate? How does Two Way Communication serve your mission?
-
-## Perspectives from Jerome Marston, KoboToolbox.org
-
-## Perspectives from NYC, Students, Community
-
-<div id="slide-config" data-type="simple" data-next="../finished/" </div>
